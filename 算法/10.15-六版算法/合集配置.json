@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "algorithm_name": "10.15-六版算法",
+  "delivery_version": 10,
+  "baseline_sha256": "2dd56424e07f3942c9c97a607f50a7afbfaf4709cfcc59d7f53a36c8034a9d51",
+  "groups": [
+    {
+      "name": "电话",
+      "recipe": "配方/电话.json",
+      "template": "模板/电话.gia",
+      "template_sha256": "07a2e91aa43b2b14a2b3b63ab6e5828066cc1c62eb7b482b4097e0c6423a3363",
+      "guid_base": 1074300000,
+      "index_base": 200000
+    },
+    {
+      "name": "微信",
+      "recipe": "配方/微信.json",
+      "template": "模板/微信.gia",
+      "template_sha256": "12f173c3f5432049c49274fe7b743eb998a5de9e9a091090be4f4f35a5ead125",
+      "guid_base": 1074304096,
+      "index_base": 204096
+    },
+    {
+      "name": "QQ",
+      "recipe": "配方/QQ.json",
+      "template": "模板/QQ.gia",
+      "template_sha256": "051c86e2d7893393618aba0073726884de83e3332c923ba57919c9b5d6d27582",
+      "guid_base": 1074308192,
+      "index_base": 208192
+    },
+    {
+      "name": "相机",
+      "recipe": "配方/相机.json",
+      "template": "模板/相机.gia",
+      "template_sha256": "a24d45bff7f88ac15709277e0d4540b6cfe85f4a2713b7425a1a8c90a868adb7",
+      "guid_base": 1074312288,
+      "index_base": 212288
+    },
+    {
+      "name": "相册",
+      "recipe": "配方/相册.json",
+      "template": "模板/相册.gia",
+      "template_sha256": "812eb92b7dbac618cad40613e170cf7b2afdf69f95ebd17a99af9bfcda600ed7",
+      "guid_base": 1074316384,
+      "index_base": 216384
+    },
+    {
+      "name": "手电筒",
+      "recipe": "配方/手电筒.json",
+      "template": "模板/手电筒.gia",
+      "template_sha256": "8844777de55f7f23c6acc29a0aa7a0ad43b44e03e68be21171669aadd82ed64b",
+      "guid_base": 1074320480,
+      "index_base": 220480
+    },
+    {
+      "name": "笔记",
+      "recipe": "配方/笔记.json",
+      "template": "模板/笔记.gia",
+      "template_sha256": "597db52dc694de1f820cda1994ab4f1e3ea273fd1e5f313f445a4884e8bf284d",
+      "guid_base": 1074324576,
+      "index_base": 224576
+    }
+  ]
+}
